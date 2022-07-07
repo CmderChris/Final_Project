@@ -54,7 +54,7 @@
     "intersection-observer": "^0.7.0",
     "jquery": "^3.4.1",
     "jsonwebtoken": "^8.5.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "morgan": "^1.9.1",
     "multer": "^1.4.2",
     "multer-s3": "^2.9.0",
